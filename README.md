@@ -2,5 +2,5 @@
 
 ####Learning
 ####git branch
-Creating a new branch is quick AND simple.
+Creating a new Branch is quick AND simple.
 git manager
